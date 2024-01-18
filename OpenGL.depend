@@ -1,0 +1,830 @@
+# depslib dependency file v1.0
+1597749732 source:d:\pinho\basico2d\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Temporizador.h"
+
+1298986600 d:\pinho\basico2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\basico2d\gl\freeglut_ext.h
+
+1584988812 d:\pinho\basico2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1584988348 source:d:\pinho\basico2d\temporizador.cpp
+	"Temporizador.h"
+
+1597787603 source:d:\pinho\poligonos\exibepoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1298986600 d:\pinho\poligonos\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\poligonos\gl\freeglut_ext.h
+
+1597783594 d:\pinho\poligonos\ponto.h
+	<iostream>
+
+1597787214 d:\pinho\poligonos\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1584988812 d:\pinho\poligonos\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1597787245 source:d:\pinho\poligonos\poligono.cpp
+	"Poligono.h"
+
+1597784052 source:d:\pinho\poligonos\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:d:\pinho\poligonos\temporizador.cpp
+	"Temporizador.h"
+
+1695159108 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\envelope.cpp
+	"Envelope.h"
+
+1695159117 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\envelope.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1298986600 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\gl\freeglut_ext.h
+
+1694728235 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\ponto.h
+	<iostream>
+	<cmath>
+
+1648676928 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1648676928 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1649772860 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\ponto.cpp
+	"Ponto.h"
+
+1648676928 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\temporizador.cpp
+	"Temporizador.h"
+
+1648676928 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1695160430 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\exibevariospoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"DiagramaVoronoi.h"
+	"ListaDeCoresRGB.h"
+	"Temporizador.h"
+
+1695160543 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1695159995 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\diagramavoronoi.h
+	<iostream>
+	<fstream>
+	"Poligono.h"
+	"Envelope.h"
+	"ListaDeCoresRGB.h"
+
+1695160030 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\diagramavoronoi.cpp
+	"DiagramaVoronoi.h"
+
+1695082243 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computação grafica\t1\voronoi\voronoi\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1695159108 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\envelope.cpp
+	"Envelope.h"
+
+1695159117 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\envelope.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1298986600 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\gl\freeglut_ext.h
+
+1694728235 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\ponto.h
+	<iostream>
+	<cmath>
+
+1648676928 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1648676928 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1695082243 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1695160543 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1648676928 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\temporizador.cpp
+	"Temporizador.h"
+
+1648676928 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1695165636 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\exibevariospoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"DiagramaVoronoi.h"
+	"ListaDeCoresRGB.h"
+	"Temporizador.h"
+
+1695165162 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\diagramavoronoi.h
+	<iostream>
+	<fstream>
+	"Poligono.h"
+	"Envelope.h"
+	"ListaDeCoresRGB.h"
+
+1695162135 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\ponto.cpp
+	"Ponto.h"
+
+1695166105 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi\voronoi\diagramavoronoi.cpp
+	"DiagramaVoronoi.h"
+
+1695524455 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\diagramavoronoi.cpp
+	"DiagramaVoronoi.h"
+
+1695507896 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\diagramavoronoi.h
+	<iostream>
+	<fstream>
+	"Poligono.h"
+	"Envelope.h"
+	"ListaDeCoresRGB.h"
+
+1695520191 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1695489317 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\gl\glut.h
+	"freeglut.h"
+
+1695489316 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1695489317 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1695489317 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\gl\freeglut_ext.h
+
+1695489316 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\ponto.h
+	<iostream>
+	<cmath>
+
+1695489316 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\envelope.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1695489316 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1695504289 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\envelope.cpp
+	"Envelope.h"
+
+1695524271 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\exibevariospoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"DiagramaVoronoi.h"
+	"ListaDeCoresRGB.h"
+	"Temporizador.h"
+
+1695489316 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1695489316 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1695520167 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1695489316 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\ponto.cpp
+	"Ponto.h"
+
+1695489316 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_em_processo (1)\voronoi\voronoi\temporizador.cpp
+	"Temporizador.h"
+
+1695916194 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\diagramavoronoi.cpp
+	"DiagramaVoronoi.h"
+
+1695861886 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\diagramavoronoi.h
+	<iostream>
+	<fstream>
+	"Poligono.h"
+	"Envelope.h"
+	"ListaDeCoresRGB.h"
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\gl\glut.h
+	"freeglut.h"
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\gl\freeglut_ext.h
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\ponto.h
+	<iostream>
+	<cmath>
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\envelope.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1695640288 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\envelope.cpp
+	"Envelope.h"
+
+1695640288 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1695640288 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1695640288 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\ponto.cpp
+	"Ponto.h"
+
+1695640288 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\temporizador.cpp
+	"Temporizador.h"
+
+1695640288 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1695916119 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2\voronoi\voronoi\exibevariospoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"DiagramaVoronoi.h"
+	"ListaDeCoresRGB.h"
+	"Temporizador.h"
+
+1695916196 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\diagramavoronoi.cpp
+	"DiagramaVoronoi.h"
+
+1695861888 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\diagramavoronoi.h
+	<iostream>
+	<fstream>
+	"Poligono.h"
+	"Envelope.h"
+	"ListaDeCoresRGB.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\gl\glut.h
+	"freeglut.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\gl\freeglut_ext.h
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\ponto.h
+	<iostream>
+	<cmath>
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\envelope.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\envelope.cpp
+	"Envelope.h"
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\ponto.cpp
+	"Ponto.h"
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\temporizador.cpp
+	"Temporizador.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi_2\voronoi\voronoi\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1695916196 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\diagramavoronoi.cpp
+	"DiagramaVoronoi.h"
+
+1695861888 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\diagramavoronoi.h
+	<iostream>
+	<fstream>
+	"Poligono.h"
+	"Envelope.h"
+	"ListaDeCoresRGB.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\gl\glut.h
+	"freeglut.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\gl\freeglut_ext.h
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\ponto.h
+	<iostream>
+	<cmath>
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\envelope.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\envelope.cpp
+	"Envelope.h"
+
+1695938300 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\exibevariospoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"DiagramaVoronoi.h"
+	"ListaDeCoresRGB.h"
+	"Temporizador.h"
+
+1695640290 c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\ponto.cpp
+	"Ponto.h"
+
+1695640290 source:c:\users\miguel warken\onedrive - pucrs - br\pucrs\4 sem\computacao grafica\t1\voronoi_2_pronto\voronoi\temporizador.cpp
+	"Temporizador.h"
+
+1696094982 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\diagramavoronoi.cpp
+	"DiagramaVoronoi.h"
+
+1696094982 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\diagramavoronoi.h
+	<iostream>
+	<fstream>
+	"Poligono.h"
+	"Envelope.h"
+	"ListaDeCoresRGB.h"
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\gl\glut.h
+	"freeglut.h"
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\gl\freeglut_ext.h
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\ponto.h
+	<iostream>
+	<cmath>
+
+1696094982 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\envelope.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1696094982 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1696094982 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\envelope.cpp
+	"Envelope.h"
+
+1696094982 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\exibevariospoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"DiagramaVoronoi.h"
+	"ListaDeCoresRGB.h"
+	"Temporizador.h"
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1696094982 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1696094983 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1696094983 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\ponto.cpp
+	"Ponto.h"
+
+1696094983 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi_finalizado\voronoi_2_pronto\voronoi\temporizador.cpp
+	"Temporizador.h"
+
+1696094982 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\diagramavoronoi.cpp
+	"DiagramaVoronoi.h"
+
+1696094982 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\diagramavoronoi.h
+	<iostream>
+	<fstream>
+	"Poligono.h"
+	"Envelope.h"
+	"ListaDeCoresRGB.h"
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\gl\glut.h
+	"freeglut.h"
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\gl\freeglut_ext.h
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\ponto.h
+	<iostream>
+	<cmath>
+
+1696094982 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\envelope.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+
+1696094982 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1696094982 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\envelope.cpp
+	"Envelope.h"
+
+1696095727 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\exibevariospoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"DiagramaVoronoi.h"
+	"ListaDeCoresRGB.h"
+	"Temporizador.h"
+
+1696094983 c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1696094982 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1696094983 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1696094983 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\ponto.cpp
+	"Ponto.h"
+
+1696094983 source:c:\users\gusta\onedrive - pucrs - br\4 semestre\computacao grafica\voronoi\temporizador.cpp
+	"Temporizador.h"
+
